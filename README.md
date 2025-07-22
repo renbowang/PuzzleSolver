@@ -67,3 +67,10 @@ x
 3 3 1 4 4
 0 3 0 4 4
 ```
+
+
+
+https://github.com/user-attachments/assets/f4782544-667c-45ed-b61e-085f1d539654
+
+
+https://github.com/user-attachments/assets/820ff451-1e5e-48e1-a64e-f8ea380cf92f
