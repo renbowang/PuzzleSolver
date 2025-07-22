@@ -1,6 +1,6 @@
 # Stack-Puzzle
 
-_A unique-solution Russian puzzle solver._
+_A Russian puzzle solver._
 
 ---
 
